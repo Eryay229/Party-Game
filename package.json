@@ -1,0 +1,13 @@
+{
+  "name": "party-panik",
+  "version": "1.0.0",
+  "description": "1-4 kişilik gerçek zamanlı çevrimiçi parti oyunu (Node.js + Socket.io + Canvas)",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.5"
+  }
+}
